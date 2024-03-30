@@ -1,9 +1,9 @@
 
   
-- 👋 Hi, I’m @19992018
+- 👋 Hi, I’m Margret
 - 👀 I do Web Development
 - 🌱 Im also a lawyer.
-- 💞️ I’m looking to collaborate on Web Development Projects
+- We can collaborate on Web dev projects?
 - 📫 How to reach me +254790500687
 
 <!---
