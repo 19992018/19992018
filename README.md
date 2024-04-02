@@ -1,6 +1,7 @@
 
   
 - 👋 Hi, I’m Margret
+- A Masters student in Information Systems Technology
 - 👀 I do Web Development
 - 🌱 Im also a lawyer.
 - We can collaborate on Web dev projects?
