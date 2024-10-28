@@ -3,7 +3,6 @@
 - 👋 Hi, I’m Margret
 - A Masters student in Information Systems Technology
 - Full stack web developer (certified)
-- 👀 Polishing my react skills from April 2024 to latest June 2024.
 - 🌱 Im also a lawyer.
 - We can collaborate on Web dev projects?
   
